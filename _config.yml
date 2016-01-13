@@ -1,28 +1,40 @@
-name: Plasticbag
-favicon: null
-layout_spectrum: 0.7377843672875315
-typography_spectrum: 0.6666999752633274
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.8914894
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.596242249943316
+  brandStrength: 0.5774738600011915
+  rhythmicContrast: 0.1185952015221119
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5774738600011915
   lightness: 0.2745855727698654
-  saturation: 0.596242249943316
-  rhythmicContrast: 0.11859520152211189
-purpose: []
+typography_spectrum: 0.393617
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Plasticbag
