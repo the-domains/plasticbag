@@ -1,0 +1,28 @@
+name: Plasticbag
+favicon: null
+layout_spectrum: 0.7377843672875315
+typography_spectrum: 0.6666999752633274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5774738600011915
+  lightness: 0.2745855727698654
+  saturation: 0.596242249943316
+  rhythmicContrast: 0.11859520152211189
+purpose: []
