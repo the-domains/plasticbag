@@ -1,8 +1,7 @@
+name: Plasticbag
+favicon: null
 layout_spectrum: 0.8914894
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.393617
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: 'Creative Direction & Interactive Design'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.596242249943316
-  brandStrength: 0.5774738600011915
-  rhythmicContrast: 0.1185952015221119
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.5774738600011915
   lightness: 0.2745855727698654
-typography_spectrum: 0.393617
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Plasticbag
+  saturation: 0.596242249943316
+  rhythmicContrast: 0.1185952015221119
+purpose: []
