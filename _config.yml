@@ -1,7 +1,7 @@
 name: Plasticbag
 favicon: null
 layout_spectrum: 0.8914894
-typography_spectrum: 0.393617
+typography_spectrum: 0.71175
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5774738600011915
-  lightness: 0.2745855727698654
-  saturation: 0.596242249943316
-  rhythmicContrast: 0.1185952015221119
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
