@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Plasticbag]]></title>
+        <description><![CDATA[Plasticbag]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 18:54:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[eBay Trust Hub]]></title>
+            <description><![CDATA[<article><h1>eBay Trust Hub</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80837a73f626faceff9bf59fc84283e10a7d02c7.png"></article>]]></description>
+            <link>undefinedebay-trust-hub/index.html</link>
+            <guid isPermaLink="false">8ff5d92f-28f9-43e1-b81e-cb555ad125e0</guid>
+            <pubDate>Thu, 14 Jan 2016 18:53:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
