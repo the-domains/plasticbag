@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0
+  lightness: 0
   brandStrength: 0
-  lightness: 1
   brandColors:
     - '#181818'
     - '#f0efed'
     - '#b3b3b6'
     - '#6f7070'
     - '#e63032'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
