@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T11:21:57.079Z'
-dateModified: '2016-01-25T11:21:54.501Z'
+datePublished: '2016-01-25T11:27:47.215Z'
+dateModified: '2016-01-25T11:27:45.059Z'
 title: eBay Trust Hub
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
@@ -33,7 +33,7 @@ _type: Article
 > * **Project:** Microsite
 > * **Work:** Art direction, visual design & production
 > * **Creative direction:** Kim Williams
-> * **Agency:**[Feed Communications][0], Berlin
+> * **Agency: **[Feed Communications][0], Berlin
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6124f583-45e8-45a9-8276-8aae2111597c.png)
 
