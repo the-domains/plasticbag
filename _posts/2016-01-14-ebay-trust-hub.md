@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T11:27:47.314Z'
-dateModified: '2016-01-25T11:27:45.059Z'
+datePublished: '2016-01-25T11:28:59.338Z'
+dateModified: '2016-01-25T11:28:57.490Z'
 title: eBay Trust Hub
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
@@ -29,8 +29,8 @@ _type: Article
 > local as well as global needs, and can be rolled out internationally.
 > 
 > * **Date: **June 2015
-> * **Client:******eBay
-> * **Project:** Microsite
+> * **Client: ******eBay
+> * **Project:** Landing Page / Microsite
 > * **Work:** Art direction, visual design & production
 > * **Creative direction:** Kim Williams
 > * **Agency: **[Feed Communications][0], Berlin
