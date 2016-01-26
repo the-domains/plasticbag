@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T21:09:58.370Z'
-dateModified: '2016-01-26T21:09:55.221Z'
+datePublished: '2016-01-26T21:23:03.170Z'
+dateModified: '2016-01-26T21:23:00.397Z'
 title: 'Welcome, dear visitor'
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
@@ -58,33 +58,33 @@ I want to share my passion for experimentation and creativity and produce work t
 > international design and web industry
 > for nearly 20 years.
 
-## --- Agencies I have worked with ---
+## --- Agencies I have worked at ---
 
 **November 2014--today**  
-Creative Director at Feed Communications GmbH, Berlin 
+Creative Director at [Feed Communications GmbH][0], Berlin 
 
 **July 2006--October 2014**  
 Freelance (Senior) Art Director with a focus on digital communication for various agencies:
-3PC, Bureau for Digital Good, Aperto, Ding Dong, Heine/Lenz/Zizka Projekte, Hi-ReS!, Interactive Tools,
-KircherBurkhardt, La Red, Mindbox, Neue Digitale/Razorfish, Scholz & Friends, Tobias & Tobias 
+[3PC][1], [Bureau for Digital Good/LGMi][2], [Aperto][3], [Ding Dong][4], [Heine/Lenz/Zizka][5], [Hi-ReS!][6], [Interactive Tools][7],
+[KircherBurkhardt/C3][8], [La Red][9], [Mindbox][10], [Neue Digitale/Razorfish][11], [Scholz & Friends][12], [Tobias & Tobias][13]
 
 **June 2001--May 2006**  
-Senior Designer at Fork Unstable Media GmbH, Berlin 
+Senior Designer at [Fork Unstable Media GmbH][14], Berlin 
 
 **March 2000--May 2001**  
-Art Director at Vir2L Studios Europe Ltd., London 
+Art Director at [Vir2L Studios Europe Ltd.][15], London 
 
 **January--February 2000**  
-Junior Art Director at ZeniMax Media Inc., Washington DC 
+Junior Art Director at [ZeniMax Media Inc.][16], Washington DC 
 
 **October--December 1999**  
-Freelance Designer at Ciao.com GmbH, Munich 
+Freelance Designer at [Ciao.com GmbH][17], Munich 
 
 **April 1998--September 1999**  
-Digital Media Designer (Apprentice) at BlackBit Neue Medien GmbH, Göttingen 
+Digital Media Designer (Apprentice) at [BlackBit Neue Medien GmbH][18], Göttingen 
 
 **JANUARY 1997 -- MARCH 1998**  
-Intern at screenform.digital GbR, Hannover
+Intern at [screenform.digital GbR][19], Hannover
 
 ## --- Brands I have worked for ---
 
@@ -139,3 +139,24 @@ city of Brno in June 2008\.
 Media: audi-a1-mediaguide.de  
 2003 / D&AD Annual Award (British Design & Art Direction, dandad.org), Interactive &
 Digital Media / B2B Websites: fork.de
+
+[0]: https://www.feedberlin.com/
+[1]: http://3pc.de/
+[2]: http://bureaufordigitalgood.com/
+[3]: http://www.aperto.de/
+[4]: http://thinkdingdong.com/
+[5]: http://www.hlz.de/
+[6]: http://hi-res.de/
+[7]: https://www.interactive-tools.de/
+[8]: https://www.c3.co/
+[9]: http://www.la-red.de/
+[10]: http://www.mindbox.de/
+[11]: http://www.razorfish.de/
+[12]: http://www.scholz-and-friends.de/
+[13]: http://www.tobiasandtobias.com/
+[14]: http://www.fork.de/
+[15]: http://www.vir2l.com/
+[16]: https://www.zenimax.com/
+[17]: http://ciao.com/
+[18]: https://www.blackbit.de/
+[19]: http://www.screenform.de/
