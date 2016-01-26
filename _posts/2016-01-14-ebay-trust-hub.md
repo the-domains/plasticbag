@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T21:35:33.362Z'
-dateModified: '2016-01-26T21:35:31.311Z'
+datePublished: '2016-01-26T21:38:15.761Z'
+dateModified: '2016-01-26T21:37:53.920Z'
 title: 'Welcome, dear visitor'
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
@@ -131,10 +131,9 @@ Pentagram) taking part during the International Biennale of Graphic Design in th
 city of Brno in June 2008\. 
 
 **Awards**  
-2010 / ECON Award Platin (ECON Unternehmenskommunikation, econ-awards.de), Digital
-Media: audi-a1-mediaguide.de  
-2003 / D&AD Annual Award (British Design & Art Direction, dandad.org), Interactive &
-Digital Media / B2B Websites: fork.de
+ECON Award Platin (ECON Unternehmenskommunikation, econ-awards.de), Digital
+Media: audi-a1-mediaguide.de (2010) / D&AD Annual Award (British Design & Art Direction, dandad.org), Interactive &
+Digital Media / B2B Websites: fork.de (2003)
 
 [0]: https://www.feedberlin.com/
 [1]: http://3pc.de/
