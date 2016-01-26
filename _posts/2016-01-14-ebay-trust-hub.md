@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T21:40:01.784Z'
-dateModified: '2016-01-26T21:39:59.153Z'
+datePublished: '2016-01-26T21:51:50.786Z'
+dateModified: '2016-01-26T21:51:48.930Z'
 title: 'Welcome, dear visitor'
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
@@ -37,8 +37,6 @@ I want to share my passion for experimentation and creativity and produce work t
 ## --- Key skills & competencies --- 
 > 
 > I am continuously learning and utilising the latest applications and technology for communicating ideas --- always keeping ahead of the changing computer industry.
-> 
-> 
 
 * Creative & art direction
 * Design consulting
@@ -57,6 +55,8 @@ I want to share my passion for experimentation and creativity and produce work t
 ## --- Agencies I have worked at ---
 
 > I have been exercising my skills in the international design and web industry for nearly 20 years.
+
+****
 
 ****
 
