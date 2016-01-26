@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-26T21:51:51.055Z'
-dateModified: '2016-01-26T21:51:48.930Z'
+description: About me
+datePublished: '2016-01-26T21:56:13.418Z'
+dateModified: '2016-01-26T21:56:09.887Z'
 title: 'Welcome, dear visitor'
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
