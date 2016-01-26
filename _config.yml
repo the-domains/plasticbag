@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Plasticbag
 favicon: null
+name: Plasticbag
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3829787
+typography_spectrum: 0.3553191
 layout_spectrum: 1
