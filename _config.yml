@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 0
-  brandStrength: 1
   lightness: 0.2723404
+  brandStrength: 0
   brandColors:
     - '#fddbc1'
     - '#ca8f6e'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Plasticbag
 favicon: null
+name: Plasticbag
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.64677
-layout_spectrum: 0
+typography_spectrum: 0.3829787
+layout_spectrum: 1
