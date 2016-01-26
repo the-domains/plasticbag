@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T11:39:51.037Z'
-dateModified: '2016-01-25T11:39:48.716Z'
+datePublished: '2016-01-26T20:19:30.716Z'
+dateModified: '2016-01-26T20:15:20.320Z'
 title: eBay Trust Hub
 author: []
 sourcePath: _posts/2016-01-14-ebay-trust-hub.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: ebay-trust-hub/index.html
 _type: Article
 
