@@ -1,5 +1,8 @@
-title: 'Creative Direction & Interactive Design'
-purpose: []
+name: Plasticbag
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3553191
+title: 'Philipp Körber ~ Creative Direction & Interactive Design'
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  lightness: 0.2723404
-  brandStrength: 0.5510638
   brandColors:
     - '#fddbc1'
     - '#ca8f6e'
     - '#95b8aa'
     - '#6d4d3d'
     - '#83725e'
+  brandStrength: 0.5510638
+  lightness: 0.2723404
+  saturation: 0
   rhythmicContrast: 0.6361702
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Plasticbag
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3553191
-layout_spectrum: 1
+purpose: []
