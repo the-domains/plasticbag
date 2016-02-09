@@ -4,7 +4,7 @@
         <description><![CDATA[Philipp Körber ~ Creative Direction & Interactive Design]]></description>
         <link>https://thegrid.ai/plasticbag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 08:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 09:09:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/plasticbag/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome, dear visitor]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/plasticbag/welcome-dear-visitor/index.html</link>
             <guid isPermaLink="false">57c36b3b-63d8-4613-aa90-33ced67e4cd6</guid>
             <pubDate>Tue, 26 Jan 2016 22:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Key skills & competencies]]></title>
+            <description><![CDATA[<h1>Key skills & competencies</h1>]]></description>
+            <link>https://thegrid.ai/plasticbag/key-skills-and-competencies/index.html</link>
+            <guid isPermaLink="false">6bfa7a7e-7a12-42c1-9346-63c1eac329ec</guid>
+            <pubDate>Tue, 09 Feb 2016 09:09:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
