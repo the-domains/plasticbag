@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Key skills & competencies'
-datePublished: '2016-02-09T09:15:14.454Z'
-dateModified: '2016-02-09T09:15:12.347Z'
+datePublished: '2016-02-09T09:19:32.004Z'
+dateModified: '2016-02-09T09:19:29.586Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-09-key-skills-and-competencies.md
@@ -30,16 +30,16 @@ _type: Article
 
 ## 
 
-* Creative & art direction
-* Design consulting
-* Visual concepts
-* Creative strategy
-* Digital communication
-* Online branding & marketing
-* Portal design
-* Responsive multi-screen design
-* User interface design
-* Interaction design
-* Mobile applications
-* Usability
+* Creative & art direction 
+* Design consulting 
+* Visual concepts 
+* Creative strategy 
+* Digital communication 
+* Online branding & marketing 
+* Portal design 
+* Responsive multi-screen design 
+* User interface design 
+* Interaction design 
+* Mobile applications 
+* Usability 
 * Agile methodologies
