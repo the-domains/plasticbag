@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Key skills & competencies'
-datePublished: '2016-02-09T09:14:40.296Z'
-dateModified: '2016-02-09T09:14:37.965Z'
+datePublished: '2016-02-09T09:15:14.454Z'
+dateModified: '2016-02-09T09:15:12.347Z'
 title: Services
 author: []
 sourcePath: _posts/2016-02-09-key-skills-and-competencies.md
