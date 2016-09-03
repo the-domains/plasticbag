@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: About me
-datePublished: '2016-01-26T22:19:52.903Z'
-dateModified: '2016-01-26T22:19:50.079Z'
+description: >-
+  I am a highly experienced digital creative living and working in Berlin. I
+  develop and execute visual concepts for large-scale projects from the finance,
+  automotive, public transport and retail sector.
+datePublished: '2016-08-31T20:43:27.693Z'
+dateModified: '2016-08-31T20:43:27.045Z'
 title: 'Welcome, dear visitor'
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-01-26-welcome-dear-visitor.md
-published: true
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: welcome-dear-visitor/index.html
 _type: Article
 
